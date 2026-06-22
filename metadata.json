@@ -1,0 +1,6 @@
+{
+  "name": "AlienLarm",
+  "description": "Plataforma SaaS de Monitoramento de Alarmes e Eventos Multiempresa baseada em nuvem, com automatizações inteligentes e interface futurista.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
